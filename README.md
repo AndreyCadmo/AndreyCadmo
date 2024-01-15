@@ -1,21 +1,17 @@
-<div display-flex >
 <img align="left" width="15%" src="https://github.com/AndreyCadmo/AndreyCadmo/blob/main/Personas/Persona%201.png" alt="persona1" border="0">
 <img align="right" width="22%" src="https://github.com/AndreyCadmo/AndreyCadmo/blob/main/Personas/Persona%202.png" alt="persona2" border="0">
-<div/>
 
-<h1 align="center">
-  Andrey Cadmo
-</h1>
+<h1 align="center" >Andrey Cadmo</h1>
 
 <div align="center" dsplay="inline-block" >
             <a href="https://www.instagram.com/dreyzin06/">
-               <img align="center" width="40px" src="https://png.pngtree.com/png-clipart/20221019/original/pngtree-instagram-social-platform-icon-png-image_8704818.png" alt="linkedin" style="vertical-align:top;" hspace="23px" >
+               <img align="center" width="4%" src="https://png.pngtree.com/png-clipart/20221019/original/pngtree-instagram-social-platform-icon-png-image_8704818.png" alt="linkedin" style="vertical-align:top;" hspace="23px" >
             </a>
             <a href="https://www.linkedin.com/in/andreycadmo/">
-               <img align="center" width="50px" src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin" style="vertical-align:top;" hspace="23px">
+               <img align="center" width="5%" src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin" style="vertical-align:top;" hspace="23px">
             </a>
             <a href="https://www.linkedin.com/in/andrey-cadmo-501121206/overlay/1635524904735/single-media-viewer/?profileId=ACoAADRX15EBYb95FvAFOFFOeddFj0XihSrmrgQ">
-               <img align="center" width="40px" src="https://medperformance.com.br/wp-content/uploads/2020/10/OPC.png" alt="Curriculo" style="vertical-align:top;" hspace="23px">
+               <img align="center" width="4%" src="https://medperformance.com.br/wp-content/uploads/2020/10/OPC.png" alt="Curriculo" style="vertical-align:top;" hspace="23px">
             </a>
           </div>
 
