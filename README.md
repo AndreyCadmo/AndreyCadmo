@@ -4,13 +4,13 @@
 <h1 align="center" >Andrey Cadmo</h1>
 
 <div align="center" dsplay="inline-block" >
-            <a href="https://www.instagram.com/dreyzin06/">
+            <a href="https://www.instagram.com/cadmo_o/">
                <img align="center" width="4%" src="https://png.pngtree.com/png-clipart/20221019/original/pngtree-instagram-social-platform-icon-png-image_8704818.png" alt="linkedin" style="vertical-align:top;" hspace="23px" >
             </a>
             <a href="https://www.linkedin.com/in/andreycadmo/">
                <img align="center" width="5%" src="https://img.icons8.com/color/256/linkedin.png" alt="linkedin" style="vertical-align:top;" hspace="23px">
             </a>
-            <a href="https://www.linkedin.com/in/andrey-cadmo-501121206/overlay/1635524904735/single-media-viewer/?profileId=ACoAADRX15EBYb95FvAFOFFOeddFj0XihSrmrgQ">
+            <a href="https://www.linkedin.com/in/andreycadmo/overlay/1736047383991/single-media-viewer/?profileId=ACoAADRX15EBYb95FvAFOFFOeddFj0XihSrmrgQ">
                <img align="center" width="4%" src="https://medperformance.com.br/wp-content/uploads/2020/10/OPC.png" alt="Curriculo" style="vertical-align:top;" hspace="23px">
             </a>
           </div>
@@ -40,6 +40,7 @@ Tudo começou quando desenvolvi um bot para Discord fazendo meu interesse em pro
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR9" width="40" height="40" />
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title = "DISCORDJS" width="40" height="40" />
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GIT" width="40" height="40" />
+<img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON" width="40" height="40" />
 </div>  
 
 <br/>
