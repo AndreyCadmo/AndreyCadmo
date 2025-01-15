@@ -38,7 +38,6 @@ Tudo começou quando desenvolvi um bot para Discord fazendo meu interesse em pro
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" width="40" height="40"/>
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT" width="40" height="40"/>
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR9" width="40" height="40" />
-<img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title = "DISCORDJS" width="40" height="40" />
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GIT" width="40" height="40" />
 <img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON" width="40" height="40" />
 </div>  
