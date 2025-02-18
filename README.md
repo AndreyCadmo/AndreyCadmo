@@ -1,21 +1,7 @@
 <img align="left" width="15%" src="https://github.com/AndreyCadmo/AndreyCadmo/blob/main/Personas/Persona%201.png" alt="persona1" border="0">
 <img align="right" width="22%" src="https://github.com/AndreyCadmo/AndreyCadmo/blob/main/Personas/Persona%202.png" alt="persona2" border="0">
 
-<h1 align="center">Andrey Cadmo</h1>
-
-<div align="center">
-    <a href="https://www.instagram.com/cadmo_o/">
-        <img align="center" width="4%" src="https://png.pngtree.com/png-clipart/20221019/original/pngtree-instagram-social-platform-icon-png-image_8704818.png" alt="Instagram" hspace="15px">
-    </a>
-    <a href="https://www.linkedin.com/in/andreycadmo/">
-        <img align="center" width="5%" src="https://img.icons8.com/color/256/linkedin.png" alt="LinkedIn" hspace="15px">
-    </a>
-    <a href="https://www.linkedin.com/in/andreycadmo/overlay/1736047383991/single-media-viewer/?profileId=ACoAADRX15EBYb95FvAFOFFOeddFj0XihSrmrgQ">
-        <img align="center" width="4%" src="https://medperformance.com.br/wp-content/uploads/2020/10/OPC.png" alt="Currículo" hspace="15px">
-    </a>
-</div>
-
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2375AADB&size=22&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;Me+chamo+Andrey+Cadmo!+🚀;Desenvolvedor+front-end+💻)
 
 ## 📌 Sobre Mim
 
@@ -27,7 +13,18 @@ Meu primeiro contato com a programação foi ao desenvolver um **bot para Discor
 
 ## 👨‍💻 Tecnologias & Ferramentas
 
-<div>
+<style>
+    @keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.1); }
+        100% { transform: scale(1); }
+    }
+    .tech-icons img {
+        animation: pulse 2s infinite;
+    }
+</style>
+
+<div class="tech-icons">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
