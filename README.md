@@ -1,7 +1,6 @@
-<img align="left" width="15%" src="https://github.com/AndreyCadmo/AndreyCadmo/blob/main/Personas/Persona%201.png" alt="persona1" border="0">
-<img align="right" width="22%" src="https://github.com/AndreyCadmo/AndreyCadmo/blob/main/Personas/Persona%202.png" alt="persona2" border="0">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2375AADB&size=22&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;Me+chamo+Andrey+Cadmo!+🚀;Desenvolvedor+front-end+💻)
+<div align="center">
+      ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2375AADB&size=22&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;Me+chamo+Andrey+Cadmo!+🚀;Desenvolvedor+front-end+💻)
+</div>
 
 ## 📌 Sobre Mim
 
@@ -12,17 +11,6 @@ Meu primeiro contato com a programação foi ao desenvolver um **bot para Discor
 ---
 
 ## 👨‍💻 Tecnologias & Ferramentas
-
-<style>
-    @keyframes pulse {
-        0% { transform: scale(1); }
-        50% { transform: scale(1.1); }
-        100% { transform: scale(1); }
-    }
-    .tech-icons img {
-        animation: pulse 2s infinite;
-    }
-</style>
 
 <div class="tech-icons">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/>
@@ -62,3 +50,14 @@ Meu primeiro contato com a programação foi ao desenvolver um **bot para Discor
 
 💡 **"Sempre aprendendo e evoluindo!"** 🚀
 
+
+<style>
+    @keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.1); }
+        100% { transform: scale(1); }
+    }
+    .tech-icons img {
+        animation: pulse 2s infinite;
+    }
+</style>
