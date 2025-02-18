@@ -48,15 +48,3 @@ Meu primeiro contato com a programação foi ao desenvolver um **bot para Discor
 ---
 
 💡 **"Sempre aprendendo e evoluindo!"** 🚀
-
-
-<style>
-    @keyframes pulse {
-        0% { transform: scale(1); }
-        50% { transform: scale(1.1); }
-        100% { transform: scale(1); }
-    }
-    .tech-icons img {
-        animation: pulse 2s infinite;
-    }
-</style>
