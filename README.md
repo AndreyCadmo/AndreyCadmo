@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2375AADB&size=22&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;Me+chamo+Andrey+Cadmo!+🚀;Desenvolvedor+front-end+💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2375AADB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+👋;Me+chamo+Andrey+Cadmo!+🚀;Desenvolvedor+💻;Futuro+GameDev!🎮)
 
 
 ## 📌 Sobre Mim
